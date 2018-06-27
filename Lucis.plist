@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>http://192.168.136.81/IOSDownLoad/lucis.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.gaeamobile.ff.inhouse</string>
-                <key>bundle-version</key>
-                <string>0.799</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>FFios最新包</string>
-            </dict>
-        </dict>
-    </array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://192.168.128.232/IOSDownLoad/lucis.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.gaeamobile.ff.inhouse</string>
+<key>bundle-version</key>
+<string>1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>凹凸世界</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
