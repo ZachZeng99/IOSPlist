@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.129.143:8080/ipa/lucis.ipa</string>
+                    <string>http://192.168.136.81/IOSDownLoad/lucis.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
